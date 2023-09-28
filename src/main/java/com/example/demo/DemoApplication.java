@@ -10,5 +10,3 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 }
-
-// Proximo Commit => Service Layer, component registration
